@@ -1,7 +1,7 @@
 # TeamNotice
 Trapeace Team Notices
 
-1. DB utility 0 DBeaver
+1. DB utility - DBeaver
 >> https://dbeaver.io/
  
 2. Trimming ID number when SQL Data import.
